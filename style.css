@@ -1,0 +1,110 @@
+body{
+    margin: 0;
+    /* font-family: 'Rowdies', cursive; */
+    
+}
+h1{
+    font-size: 35px;   
+}
+.top-footer{
+    display: flex;
+    /* margin-bottom: 100px; */
+    height: 660px;
+}
+.half-width{
+    width: 50%;
+    margin: 5%;
+    padding-left: 2%;
+
+}
+.half-width img{
+    width: 75%;
+}
+.first-word{
+    color: blueviolet;
+}
+.link-btn{
+    text-decoration: none;
+    background-image: linear-gradient(black, gray);
+    padding: 10px 40px;
+    border-radius: 15px;
+    color: white;                                                                                                            
+}
+
+.top-banner{
+    background-image: url(img/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.top-medile-banner{
+    background-image: url(img/7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.person-img{
+    width: 400px;
+    height: 600px;
+}
+
+.second-descrip{
+    margin: 40px;
+    padding: 10px;
+}
+.recepi-area{
+    height: 200px;
+    text-align: center;
+    margin-top: 50px;
+}
+.card-area{
+    display: flex;
+
+}
+.card-img{
+    width: 400px;
+    height: 350px;
+    margin-left: 0px;
+}
+.box-area{
+    width: 400px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    margin-left: 2%;
+    padding: 2%;
+    margin-bottom: 50px;
+    
+}
+.statestic-area{
+    display: flex;
+    box-shadow: 10px 10px 40px rgb(87, 85, 85);
+    width: 1440px;
+    height: 200px;
+    margin-left: 30px;
+    margin-bottom: 50px;
+
+}
+.count-digit{
+    width: 400px;
+    margin: 50px;
+    text-align: center;
+}
+.footer-area{
+    background-color: rgb(36, 32, 32);
+    height: 200px;
+    margin-bottom: 100px;
+    /* width: 100%; */
+    
+}
+.footer-content{
+
+    
+    text-align: center;
+    color: white;
+    
+}
+.footer-content h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    padding-top: 20px;
+}
